@@ -10,7 +10,6 @@ We exceed basic implementation by handling Error detection, text Buffers, end of
 and reserved lookups
 
 # Features
-Features:
 - Output was compared to match exactly that of the reference.
 - Errors are detected.
 - points to the last character before the error.
